@@ -1,4 +1,3 @@
-```
 <!DOCTYPE html>
 <html>
 <head>
@@ -131,5 +130,3 @@ window.location.href = page;
 
 </body>
 </html>
-that is what i have 
-```
